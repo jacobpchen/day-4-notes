@@ -1,0 +1,18 @@
+Create 2 folders
+html
+scripts
+
+
+Create a basic html in html
+
+Create a basic script file in scripts
+link a script file to the html
+test if script is linked
+
+link bootstrap
+test if bootstrap is linked
+
+get gist
+
+https://gist.github.com/jacobpchen/bd6e1ef4d5e5b422a75d451749046b74
+
